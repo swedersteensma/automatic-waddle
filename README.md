@@ -10,3 +10,5 @@ Afterwords, the words are selected which are to be used for the LSH step. In thi
 
 Users can adjust the modelwords selected and the cleaning procedure, by calling or not calling in the functions made and by adjusting threshold values. 
 After the eventual model words list is created, this is used to preform LSH and Jaccard Similarity and to get a performance of the detection algorithm using an F1-score. 
+
+This code has been written in cooperation with Leonard HeukerofHoek 
